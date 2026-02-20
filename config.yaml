@@ -34,7 +34,7 @@ life_cycle: 'alpha'
 license: 'CC-BY 4.0'
 
 # Link to the source repository for this lesson
-source: 'https://github.com/fishtree-attempt/genome-mining-workshop/'
+source: 'https://github.com/carpentries-incubator/genome-mining-workshop'
 
 # Default branch of your lesson
 branch: 'main'
@@ -83,8 +83,7 @@ profiles:
 # sandpaper and varnish versions) should live
 
 
-url: 'https://preview.carpentries.org/genome-mining-workshop'
+url: 'https://carpentries-incubator.github.io/genome-mining-workshop'
 analytics: 'carpentries'
 lang: 'en'
-workbench-beta: true
 overview: true
